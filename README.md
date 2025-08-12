@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End React Developer** and
 
 ## 📫 Get in Touch
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [younesfouladi@gmail.com](mailto:younesfouladi@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/younesfouladi](https://linkedin.com/in/younesfouladi)
 
 ---
