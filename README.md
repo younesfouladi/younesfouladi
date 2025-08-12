@@ -1,5 +1,4 @@
-# Hi there 👋
-I'm Younes Fouladi!
+# Hi there 👋 I'm Younes Fouladi!
 
 Welcome to my GitHub profile! I'm a passionate **Front-End React Developer** and **Graphic Designer** based in Iran. Here you’ll find my projects, creative experiments, and open source contributions.
 
