@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End React Developer** and
 
 ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![expressjs](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
