@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End React Developer** and
 
 ## 🚀 About Me
 
-- 🖌️ Front-End React Developer & Graphic Designer
+- 💻 Full stack Web Developer & Graphic Designer
 - 🌍 Based in Iran
 - 👨‍💻 I love building modern, interactive web interfaces and beautiful graphic designs.
 - 📅 Joined GitHub in February 2020
